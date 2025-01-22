@@ -1,0 +1,10 @@
+ls        # List files
+pwd       # Show current directory
+cd /path  # Change directory
+mkdir newfolder  # Create directory
+rm file.txt  # Remove file
+cp file1 file2  # Copy file
+mv old new  # Rename file
+cat file.txt  # View file contents
+touch newfile.txt  # Create empty file
+echo "Hello, Linux!" > hello.txt  # Write to file
