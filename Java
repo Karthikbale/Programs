@@ -1,0 +1,13 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        System.out.println("This is a basic Java program.");
+        System.out.println("Java is an object-oriented language.");
+        System.out.println("It is widely used for web and app development.");
+        System.out.println("Let's do some simple math:");
+        int a = 10, b = 20;
+        int sum = a + b;
+        System.out.println("Sum of " + a + " and " + b + " is: " + sum);
+        System.out.println("Goodbye!");
+    }
+}
