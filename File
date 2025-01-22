@@ -6,3 +6,17 @@ def fibonacci(n):
 
 # Print first 10 Fibonacci numbers
 fibonacci(10)
+# feature202 changes
+
+
+def reverse_string(s):
+    return s[::-1]
+
+# Example usage
+text = "Hello, World!"
+reversed_text = reverse_string(text)
+print("Original:", text)
+print("Reversed:", reversed_text)
+ 
+
+#feature202 ends
